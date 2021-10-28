@@ -1,0 +1,36 @@
+.image
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_cdD1ssLR286ZGhW6-wj45YBHjnzGboLlw&usqp=CAU);
+    width: 230px;
+    height: 200px;
+    background-repeat: no-repeat; 
+    border-radius: 50%;
+
+    
+    
+}
+
+h1{
+    font-size: 80px;
+   margin-left: 300px;
+}
+h2{
+    color: blue;
+}
+.box{
+    background-color: white;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-color: black;
+    border-left-width: 1px;
+    border-left-style: dashed;
+
+    
+    display: inline-block
+    
+
+}
+
+
+
